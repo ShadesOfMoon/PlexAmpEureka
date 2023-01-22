@@ -1,0 +1,3 @@
+# PlexAmpEureka
+Application Plex Amp CUSTOM eureka
+C'est un client de musique pour Plex, c'est un lecteur de musique dédié pour les utilisateurs de Plex qui veulent une expérience de lecture audio améliorée sur leur ordinateur. Il offre une interface utilisateur minimaliste et moderne, des fonctionnalités avancées telles que la lecture gapless, le support de plusieurs périphériques, la prise en charge de la lecture aléatoire, des listes de lecture, des égaliseurs, etc. Il permet également de synchroniser la lecture entre différents appareils et d'utiliser des commandes vocales pour contrôler la lecture. Il est développé par l'équipe Plex et est disponible gratuitement sur Windows, MacOS et Linux.
